@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: #009688;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#message {
+  font-weight: bold;
+  margin-top: 20px;
+}
